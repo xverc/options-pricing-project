@@ -1,0 +1,15 @@
+# Python
+venv/
+*.pyc
+__pycache__/
+
+# Data
+data/options.db
+data/*.db
+
+# Secrets
+.env
+
+# IDE / OS
+.vscode/
+.DS_Store
